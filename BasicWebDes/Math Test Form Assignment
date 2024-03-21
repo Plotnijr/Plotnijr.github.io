@@ -1,0 +1,39 @@
+<!-- Start of the test -->
+<form>
+    <!-- Text field for user's name -->
+    <label for="name">Name:</label><br>
+    <input type="text" id="name" name="name"><br>
+    
+    <!-- Multiple choice questions -->
+    <p>1. What is 2 + 2?</p>
+    <input type="radio" id="mcq1-1" name="mcq1" value="1">
+    <label for="mcq1-1">1</label><br>
+    <input type="radio" id="mcq1-2" name="mcq1" value="2">
+    <label for="mcq1-2">2</label><br>
+    <input type="radio" id="mcq1-4" name="mcq1" value="4">
+    <label for="mcq1-4">4</label><br>
+    
+    <p>2. What is 3 &times; 3?</p>
+    <input type="radio" id="mcq2-6" name="mcq2" value="6">
+    <label for="mcq2-6">6</label><br>
+    <input type="radio" id="mcq2-9" name="mcq2" value="9">
+    <label for="mcq2-9">9</label><br>
+    <input type="radio" id="mcq2-12" name="mcq2" value="12">
+    <label for="mcq2-12">12</label><br>
+    
+    <p>3. What is 10 &divide; 2?</p>
+    <input type="radio" id="mcq3-3" name="mcq3" value="3">
+    <label for="mcq3-3">3</label><br>
+    <input type="radio" id="mcq3-5" name="mcq3" value="5">
+    <label for="mcq3-5">5</label><br>
+    <input type="radio" id="mcq3-7" name="mcq3" value="7">
+    <label for="mcq3-7">7</label><br>
+    
+    <!-- Word problem -->
+    <p>If John has 5 apples and he gives 2 to Mary, how many apples does John have left?</p>
+    <textarea id="word-problem" name="word-problem" rows="4" cols="50"></textarea>
+    
+    <!-- Submit button -->
+    <input type="submit" value="Submit">
+</form>
+<!-- End of the test -->
