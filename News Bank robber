@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Breaking News: Bank Robber Escapes from Jail</title>
+</head>
+<body>
+  <h1>Breaking News: Bank Robber Escapes from Jail</h1>
+  <p><em>Date: Thursday, March 21, 2024</em></p>
+  
+  <img src="bank-robber.jpg" alt="Bank Robber" width="300">
+  
+  <p><strong>City, State:</strong> The notorious bank robber, John Doe, has escaped from the city jail and is currently on the loose.</p>
+  
+  <h2>Details of the Robbery</h2>
+  <p>According to authorities, John Doe managed to break out of jail during the early hours of this morning. He was serving time for a series of high-profile bank robberies that had taken place over the past year.</p>
+  
+  <p>During his escape, Doe overpowered a guard, stole his uniform, and made his way out of the facility unnoticed. It is believed that he had inside help, as the escape appeared to be well-planned and executed.</p>
+  
+  <h2>Manhunt Underway</h2>
+  <p>Law enforcement agencies have launched a massive manhunt to capture John Doe and return him to custody. Officers are urging the public to remain vigilant and report any suspicious activities or sightings.</p>
+  
+  <p>A reward of $100,000 is being offered for information leading to the arrest and conviction of John Doe. Authorities are urging anyone with information to contact the local police department or the dedicated tip hotline.</p>
+  
+  <h2>Stay Safe and Informed</h2>
+  <p>The local community is advised to exercise caution and take necessary precautions while the fugitive remains at large. Residents are encouraged to stay updated with the latest news and follow any instructions or updates provided by law enforcement.</p>
+  
+  <h3>Read More:</h3>
+  <p>For the full article and updates on this developing story, click <a href="bank-robber-escape.html" target="_self">here</a>.</p>
+  
+  <p>Return to the <a href="index.html" target="_self">News Hub</a>.</p>
+</body>
+</html>
