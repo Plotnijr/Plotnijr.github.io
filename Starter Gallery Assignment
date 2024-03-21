@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Large Cats</title>
+    <style>
+        img {
+            height: 300px;
+            width: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Large Cats</h1>
+    <div>
+        <img src="URL_of_lioness_image" alt="Lioness">
+        <img src="URL_of_leopard_image" alt="Leopard">
+        <img src="URL_of_tiger_image" alt="Tiger">
+    </div>
+</body>
+</html>
