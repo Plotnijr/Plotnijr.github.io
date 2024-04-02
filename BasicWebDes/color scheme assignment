@@ -1,0 +1,16 @@
+The color scheme I've created is based on the theme "Sunset at the Beach". The four colors in this scheme are "Golden Sun", "Crimson Sky", "Azure Sea", and "Sandy Beach".
+
+
+Here is the HTML table with the color names and their corresponding hex, rgb, and hsl values:
+
+
+Color Name	Hex Value	RGB Value	HSL Value
+Golden Sun	#FFD700	rgb(255, 215, 0)	hsl(51, 100%, 50%)
+Crimson Sky	#DC143C	rgb(220, 20, 60)	hsl(348, 83%, 47%)
+Azure Sea	#1E90FF	rgb(30, 144, 255)	hsl(210, 100%, 56%)
+Sandy Beach	#F4A460	rgb(244, 164, 96)	hsl(28, 87%, 67%)
+
+The table is constructed using HTML and CSS. The header of the table is the name of the color scheme, "Sunset at the Beach", styled with a different font to differentiate it from other text in the table. Each cell in the "Color Name" column has its background color set to the color it represents.
+
+
+The hex, rgb, and hsl values are different methods to represent a color. Hex values are six-digit hexadecimal (base 16) numbers, while RGB values are based on the red, green, and blue color model. HSL stands for hue, saturation, and lightness, another way to represent colors.
