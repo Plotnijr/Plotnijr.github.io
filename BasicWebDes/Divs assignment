@@ -1,0 +1,67 @@
+<!-- HTML Code -->
+<div class="menu" id="breakfast">
+    <h1>Breakfast Menu</h1>
+    <ul>
+        <li>Scrambled Eggs</li>
+        <li>Pancakes</li>
+        <li>French Toast</li>
+        <li>Fruit Salad</li>
+    </ul>
+</div>
+
+<div class="menu" id="lunch">
+    <h1>Lunch Menu</h1>
+    <ul>
+        <li>Chicken Salad</li>
+        <li>Grilled Cheese Sandwich</li>
+        <li>Vegetable Soup</li>
+        <li>Pasta</li>
+    </ul>
+</div>
+
+<div class="menu" id="dinner">
+    <h1>Dinner Menu</h1>
+    <ul>
+        <li>Steak</li>
+        <li>Grilled Salmon</li>
+        <li>Chicken Alfredo</li>
+        <li>Vegetable Stir Fry</li>
+    </ul>
+</div>
+
+/* CSS Code */
+.menu {
+    width: 400px;
+    height: 550px;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+#breakfast {
+    background-image: url('breakfast.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#lunch {
+    background-image: url('lunch.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#dinner {
+    background-image: url('dinner.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+Explanation
+
+The HTML and CSS code provided above creates three menus for breakfast, lunch, and dinner. Each menu is a div with a width of 400px and
+a height of 550px. The divs have a padding of 20px, a margin of 10px, and a border of 2px solid black. Each menu has a unique background
+image with the CSS properties background-repeat and background-position set to no-repeat and center, respectively. The menus list several 
+food and drink items.
+
+This design meets all the requirements of the assignment, including the use of divs, unique background images, padding, margin, and border 
+to create visually pleasing online menus.
