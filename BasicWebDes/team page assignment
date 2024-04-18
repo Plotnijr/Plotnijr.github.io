@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Team Page</title>
+    <style>
+        .team-member {
+            float: left;
+            width: 25%;
+            padding: 10px;
+        }
+        .team-member img {
+            width: 100%;
+        }
+        .navigation {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background-color: #f8f9fa;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .navigation a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #343a40;
+        }
+    </style>
+</head>
+<body>
+    <div class="navigation">
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Services</a>
+        <a href="#">Contact</a>
+    </div>
+    <div class="team-member">
+        <img src="member1.jpg" alt="Member 1">
+        <h2>Member 1</h2>
+        <p>Short biography of member 1...</p>
+    </div>
+    <div class="team-member">
+        <img src="member2.jpg" alt="Member 2">
+        <h2>Member 2</h2>
+        <p>Short biography of member 2...</p>
+    </div>
+    <div class="team-member">
+        <img src="member3.jpg" alt="Member 3">
+        <h2>Member 3</h2>
+        <p>Short biography of member 3...</p>
+    </div>
+    <div class="team-member">
+        <img src="member4.jpg" alt="Member 4">
+        <h2>Member 4</h2>
+        <p>Short biography of member 4...</p>
+    </div>
+</body>
+</html>
