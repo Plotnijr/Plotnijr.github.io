@@ -1,0 +1,67 @@
+HTML File 1: Golf Scorecard
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Golf Scorecard</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Golf Scorecard</h1>
+  <table class="scorecard">
+    <thead>
+      <tr>
+        <th>Round</th>
+        <th>Player</th>
+        <th>Score</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>Player 1</td>
+        <td>72</td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>Player 2</td>
+        <td>78</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Player 1</td>
+        <td>69</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Player 2</td>
+        <td>75</td>
+      </tr>
+      <!-- Add more rows as needed -->
+    </tbody>
+  </table>
+</body>
+</html>
+
+CSS File (styles.css):
+
+
+.scorecard {
+  border-collapse: collapse;
+}
+
+.scorecard th {
+  background-color: #f2f2f2;
+  padding: 10px;
+  text-align: left;
+}
+
+.scorecard td {
+  padding: 10px;
+}
+
+/* Example of using a pseudo-class */
+.scorecard tr:nth-child(even) {
+  background-color: #e6e6e6;
+}
